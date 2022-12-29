@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main (){
+
+int id[10];
+int name;
+
+printf("What is your name:%d", name);
+scanf("%d", &name);
+
+printf("Type your Id number:%d", id);
+scanf("%d", &id);
+
+}
