@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Kiveu
 - Currently a student @ Iowa State University
 - 👀 I’m interested in gaming, coding, and running
-- 🌱 I’m currently learning c programming, and I am going to start doing Java
+- 🌱 I’m currently learning C programming, and Java
 - 📫 How to reach me email: kiveugabe@gmail.com
